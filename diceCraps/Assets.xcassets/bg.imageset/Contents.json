@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Bits Haus.png",
+      "filename" : "bg.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Bits Haus@2x.png",
+      "filename" : "bg@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Bits Haus@3x.png",
+      "filename" : "bg@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
